@@ -1,0 +1,63 @@
+
+
+
+
+
+*,*::before,*::after{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 150%;
+    
+    
+}
+
+.main-div{
+    width: 100vw;
+    height: 110vh;
+    background-color: rgb(216, 209, 200);
+    display: grid;
+    place-items: center;
+
+}
+
+.input{
+    width: 35rem;
+    height: auto;
+    background-color: rgb(212, 105, 63);
+    border-radius: 2rem;
+    box-shadow: cornflowerblue;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 1.2rem 3rem 0.5rem rgb(8, 3, 1)}
+.input1{
+    padding: 0.5rem;
+
+}
+   #msg{
+    padding: 0.02rem;
+       color: rgb(26, 22, 235);
+   }
+   .change-table{
+    width: 35rem;
+    height: 4rem;
+    background-color: rgb(63, 202, 212);
+    border-radius: 2rem;
+    box-shadow: cornflowerblue;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 1.2rem 3rem 0.5rem rgb(8, 3, 1)
+
+    }
+
+    .number-of-notes{
+       color: rgb(109, 1, 1);
+    }
+    button{
+        align-items: center;
+    }
+
+   
